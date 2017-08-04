@@ -1,0 +1,28 @@
+{
+    "beam_diameter": "", 
+    "cleanup_duration": 60.0, 
+    "commit": "44bbd01bc6e43ceb7dbbc4e9bd51e748cb9f097f", 
+    "extract_device": "Fusions Diode", 
+    "extract_duration": 40.0, 
+    "extract_units": "", 
+    "extract_value": 0.0, 
+    "pattern": "", 
+    "positions": [
+        {
+            "is_degas": false, 
+            "position": "", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }
+    ], 
+    "ramp_duration": 0.0, 
+    "ramp_rate": 0.0, 
+    "request": "DwizTgAAAABAHMA9AAD6RNjzBUAAAPpEliKDQAAA+kRiMcNAAAD6RBCbAUEAAPpEGa4hQQAA+kSTv0FBAAD6ROHTYUEAAPpEjvGAQQAA+kTX75BBAAD6REP+oEEAAPpE1gSxQQAA+kT+CMFBAAD6RN8W0UEAAPpEwhbhQQAA+kQ2IPFBAAD6RFmQAEIAAPpEzpIIQgAA+kTXkRBCAAD6RGuSGEIAAPpEBZggQgAA+kTMmihCAAD6RAyhMEIAAPpE", 
+    "response": "DwizTgAAAABAHMA9qbDlQdjzBUAAAAAAliKDQAAAAABiMcNA0QMIQhCbAUHRAwhCGa4hQdEDCEKTv0FB0QMIQuHTYUHRAwhCjvGAQdEDCELX75BB0QMIQkP+oEHRAwhC1gSxQdEDCEL+CMFB0QMIQt8W0UHRAwhCwhbhQdEDCEI2IPFB0QMIQlmQAELRAwhCzpIIQtEDCELXkRBC0QMIQmuSGELRAwhCBZggQtEDCELMmihC0QMIQgyhMELRAwhC", 
+    "sblob": "", 
+    "snapshots": [], 
+    "tray": "", 
+    "videos": [], 
+    "weight": 0.0
+}
